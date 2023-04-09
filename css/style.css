@@ -1,0 +1,13 @@
+#contact{
+    border-radius: 15px;
+    width: max-content;
+    height: 45px;
+    text-align: center;
+}
+
+
+#contact:hover{
+    font-weight: bold;
+    width: 75px;
+    transition: 0.3s;
+}
